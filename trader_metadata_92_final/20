@@ -1,0 +1,27 @@
+{
+    "name": "Market Martyr #20",
+    "description": "A premium PFP collection dedicated to the raw psychology, existential dread, and emotional rollercoaster of crypto trading. Representing the elite archetypes of the digital markets.",
+    "image": "ipfs://bafybeialsg5depxajkgjpv7mnzxq3raps7wwazwvjxyngckes4lxxjcfre/20.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Solid Dark Midnight Blue"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Deadpan Drool"
+        },
+        {
+            "trait_type": "Trading Style",
+            "value": "The Technical Owl"
+        },
+        {
+            "trait_type": "Character Type",
+            "value": "Anthropomorphic Owl"
+        },
+        {
+            "trait_type": "Market Philosophy",
+            "value": "In charts we trust. Emotions are just noise on the blockchain."
+        }
+    ]
+}

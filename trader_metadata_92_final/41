@@ -1,0 +1,27 @@
+{
+    "name": "Market Martyr #41",
+    "description": "A premium PFP collection dedicated to the raw psychology, existential dread, and emotional rollercoaster of crypto trading. Representing the elite archetypes of the digital markets.",
+    "image": "ipfs://bafybeialsg5depxajkgjpv7mnzxq3raps7wwazwvjxyngckes4lxxjcfre/41.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Solid Dark Midnight Blue"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Deadpan Drool"
+        },
+        {
+            "trait_type": "Trading Style",
+            "value": "The HODLer Turtle"
+        },
+        {
+            "trait_type": "Character Type",
+            "value": "Anthropomorphic Turtle"
+        },
+        {
+            "trait_type": "Market Philosophy",
+            "value": "Slow, steady, and unbreakable. Long-term compounding is the way."
+        }
+    ]
+}
